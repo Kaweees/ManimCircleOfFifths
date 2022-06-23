@@ -11,7 +11,7 @@ A fully customisable implementation of the Circle of fifths written in Manim.
 ### Built With
 
  - Python 3:
-   - manim
+   - manim (community edition)
 
 
 # Circle Of Fifths
