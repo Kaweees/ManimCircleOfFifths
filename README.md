@@ -6,7 +6,7 @@
 
 [<img src="assets/img/manim-logo.png" align="right" width="150">](https://github.com/Kaweees/ManimCircleOfFifths)
 
-A fully customisable implementation of the Circle of fifths written in Manim.
+An implementation of the Circle of fifths, with a fully customizable progression of chords animation with sound, written in Manim.
 
 ### Built With
 
